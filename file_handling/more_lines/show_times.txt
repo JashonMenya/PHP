@@ -1,0 +1,4 @@
+Avengers,PG-13,4:30,7:30,10:30
+Zootopia,PG,4:45
+The Jungle Book,PG,6:30,8:45
+1917,R,4:30,7:30,10:30
